@@ -139,3 +139,54 @@ Related files can be found in the _Assets/Scripts/Inventory_ directory.
 ## Collecting (Entry Point To Inventory)
 [Collectible.cs](Ratking/Assets/Scripts/Items/Collectible.cs) - Physical item carrying inventory metadata; handles breakage threshold and emits impact sounds.
 
+
+# Rollback Netcode Fighting Game
+
+## Rollback System
+
+Here's how the buffers are arranged and used for the live fighters and their rollback shadows:
+* **Live fighter buffers:** Each fighter has a FighterBufferMono that creates and owns an InputBuffer in Awake(), copies its inspector settings (delay, pressed-keys history), and assigns it to FighterController.InputBuffer.
+
+The local fighter sets CollectInputFromKeyboard = true, so FighterBufferMono.FixedUpdate() captures the keyboard each fixed tick and enqueues a stamped InputFrame (now + DelayInput).
+
+The remote fighter's buffer is filled by the net layer with received InputFrames (same format: stamp, checksum, inputs).
+
+* **Rollback shadow buffers:** Each fighter has a paired RB (rollback) clone that also holds an InputBuffer (e.g., PlayerRBBuffer, EnemyRBBuffer). After the live fighter enqueues/consumes for the current tick, that same frame is appended to the shadow buffer, keeping a trailing window of DelayInput + rollbackWindow frames. When late inputs arrive for a past stamp, the shadow buffer uses RollbackEnqueue to replace the predicted frame at that stamp and re-predict any following frames so its timeline stays consistent.
+
+* **How they work together during a rollback**  When a late frame requires rewinding, Restore.Rollback(...):
+1. Swaps live fighters with their RB clones (the "rollback shadow" = the saved gameplay state).
+
+2. Builds a temporary rollback buffer per side by concatenating the shadow's buffer with the live buffer's recent frames (BufferToRollbackWith(RBBuffer, liveBuffer)), ensuring the full timeline from the rollback point to "now".
+
+3. Feeds that buffer to FighterController.Resimulate(...) to replay inputs up to the present, then hands control back to the live objects.
+
+In short: the live buffer is the real-time input queue used to step gameplay each tick; the rollback shadow buffer is the curated, replaceable history that pairs with the shadow’s saved state so the engine can rewind, apply authoritative inputs, and deterministically catch back up.
+
+
+## Other notable features:
+* Peer-to-peer TCP with Nagle disabled.
+* Clock synchronization to align start times.
+* Deterministic gameplay using FixedMath.NET (fixed-point) with uncapped rendering.
+* Lightweight lobbies and in-app chat.
+* Checksum-based desync detection.
+
+
+
+
+Related files live in the Assets/Scripts/Netcode and Assets/Scripts/Fighters directories.
+
+[InputBuffer.cs](RollbackNetcode/Assets/Scripts/Gameplay/Input%20Buffers/InputBuffer.cs)
+* Defines InputFrame (byte-packed inputs, frame stamp, checksum, predicted flag).
+* InputBuffer queue: delay, prediction, rollback replacement, pressed-keys history.
+
+[FighterBufferMono.cs](RollbackNetcode/Assets/Scripts/Gameplay/Input%20Buffers/FighterBufferMono.cs)
+* Mono bridge that captures local keyboard input each fixed frame.
+* Enqueues into InputBuffer with configured delay and raises an event for observers.
+
+[Restore.cs](RollbackNetcode/Assets/Scripts/Gameplay/Core/Restore.cs)
+* Resimulates N frames starting from the "Rollback Shadow's" state (A copy of the player character N frame in the past. Meant to be invisible in production)
+* Additionally, initializes/destroys projectiles as necessary to match the correct game state.
+
+[FighterController.cs](RollbackNetcode/Assets/Scripts/Gameplay/Fighter/FighterController.cs)
+* Deterministic fighter logic (FixedMath.NET): movement, jump, facing, block/crouch.
+* Consumes stamped InputFrames (or predicted) and updates animator/render state.
