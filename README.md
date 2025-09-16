@@ -17,10 +17,11 @@ Use the Quick Navigation to jump between sections. Within each section, files ar
     - [Boid/Steering System](#boidsteering-system)
     - [Duplucation System](#duplication-system)
   - [Beat-Triggered Interactables](#beat-triggered-interactables)
- - [RatKing](#ratking) 
+- [RatKing](#ratking) 
   - [Inventory System](#inventory-system)  
-  - [Throwing (Exit Point)](#throwing--projectile-simulation-system-exit-point-from-inventory)  
-  - [Collecting (Entry Point)](#collecting-entry-point-to-inventory)  
+    - Main Logic
+    - [Throwing (Exit Point)](#throwing--projectile-simulation-system-exit-point-from-inventory)  
+    - [Collecting (Entry Point)](#collecting-entry-point-to-inventory)  
 
 # Toot The Lute
 
