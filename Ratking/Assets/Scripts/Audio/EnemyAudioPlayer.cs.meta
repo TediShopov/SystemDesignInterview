@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fa859f41c4c305146baa0ea6506e7fb3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _enemyWalk: {fileID: 8300000, guid: 79ad1d24a08f71648a949491547d495e, type: 3}
+  - _enemyShoot: {fileID: 8300000, guid: 2c691d06b91c0d8498f4fcb1ae71ac8c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

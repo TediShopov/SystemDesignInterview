@@ -1,0 +1,1634 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e0ca3afe7ef58b49b7d901ab80e6112, type: 3}
+  m_Name: New Precomputed Graph
+  m_EditorClassIdentifier: 
+  Nodes:
+  - {x: 119, y: -116, z: 0}
+  - {x: 160, y: -116, z: 0}
+  - {x: 116, y: -115, z: 0}
+  - {x: 120, y: -115, z: 0}
+  - {x: 159, y: -115, z: 0}
+  - {x: 117, y: -114, z: 0}
+  - {x: 119, y: -114, z: 0}
+  - {x: 119, y: -110, z: 0}
+  - {x: 112, y: -107, z: 0}
+  - {x: 149, y: -107, z: 0}
+  - {x: 113, y: -106, z: 0}
+  - {x: 116, y: -106, z: 0}
+  - {x: 118, y: -106, z: 0}
+  - {x: 120, y: -106, z: 0}
+  - {x: 142, y: -106, z: 0}
+  - {x: 148, y: -106, z: 0}
+  - {x: 122, y: -105, z: 0}
+  - {x: 149, y: -105, z: 0}
+  - {x: 150, y: -103, z: 0}
+  - {x: 147, y: -102, z: 0}
+  - {x: 149, y: -102, z: 0}
+  - {x: 57, y: -100, z: 0}
+  - {x: 61, y: -100, z: 0}
+  - {x: 65, y: -100, z: 0}
+  - {x: 114, y: -100, z: 0}
+  - {x: 125, y: -100, z: 0}
+  - {x: 58, y: -99, z: 0}
+  - {x: 60, y: -99, z: 0}
+  - {x: 100, y: -99, z: 0}
+  - {x: 126, y: -99, z: 0}
+  - {x: 127, y: -99, z: 0}
+  - {x: 89, y: -98, z: 0}
+  - {x: 99, y: -98, z: 0}
+  - {x: 128, y: -98, z: 0}
+  - {x: 134, y: -98, z: 0}
+  - {x: 87, y: -97, z: 0}
+  - {x: 88, y: -97, z: 0}
+  - {x: 150, y: -97, z: 0}
+  - {x: 30, y: -96, z: 0}
+  - {x: 36, y: -96, z: 0}
+  - {x: 43, y: -96, z: 0}
+  - {x: 45, y: -96, z: 0}
+  - {x: 53, y: -96, z: 0}
+  - {x: 57, y: -96, z: 0}
+  - {x: 61, y: -96, z: 0}
+  - {x: 65, y: -96, z: 0}
+  - {x: 83, y: -96, z: 0}
+  - {x: 86, y: -96, z: 0}
+  - {x: 151, y: -96, z: 0}
+  - {x: 24, y: -95, z: 0}
+  - {x: 29, y: -95, z: 0}
+  - {x: 37, y: -95, z: 0}
+  - {x: 42, y: -95, z: 0}
+  - {x: 46, y: -95, z: 0}
+  - {x: 52, y: -95, z: 0}
+  - {x: 70, y: -95, z: 0}
+  - {x: 82, y: -95, z: 0}
+  - {x: 100, y: -95, z: 0}
+  - {x: 148, y: -95, z: 0}
+  - {x: 61, y: -94, z: 0}
+  - {x: 65, y: -94, z: 0}
+  - {x: 92, y: -94, z: 0}
+  - {x: 112, y: -94, z: 0}
+  - {x: 149, y: -94, z: 0}
+  - {x: 154, y: -94, z: 0}
+  - {x: 130, y: -93, z: 0}
+  - {x: 145, y: -93, z: 0}
+  - {x: 24, y: -92, z: 0}
+  - {x: 43, y: -92, z: 0}
+  - {x: 45, y: -92, z: 0}
+  - {x: 51, y: -92, z: 0}
+  - {x: 62, y: -92, z: 0}
+  - {x: 66, y: -92, z: 0}
+  - {x: 77, y: -92, z: 0}
+  - {x: 81, y: -92, z: 0}
+  - {x: 93, y: -92, z: 0}
+  - {x: 95, y: -92, z: 0}
+  - {x: 113, y: -92, z: 0}
+  - {x: 120, y: -92, z: 0}
+  - {x: 129, y: -92, z: 0}
+  - {x: 154, y: -92, z: 0}
+  - {x: 160, y: -92, z: 0}
+  - {x: 64, y: -91, z: 0}
+  - {x: 65, y: -91, z: 0}
+  - {x: 78, y: -91, z: 0}
+  - {x: 79, y: -91, z: 0}
+  - {x: 130, y: -91, z: 0}
+  - {x: 131, y: -91, z: 0}
+  - {x: 47, y: -90, z: 0}
+  - {x: 49, y: -90, z: 0}
+  - {x: 66, y: -90, z: 0}
+  - {x: 77, y: -90, z: 0}
+  - {x: 132, y: -90, z: 0}
+  - {x: 137, y: -90, z: 0}
+  - {x: 150, y: -90, z: 0}
+  - {x: 159, y: -90, z: 0}
+  - {x: 35, y: -89, z: 0}
+  - {x: 38, y: -89, z: 0}
+  - {x: 92, y: -89, z: 0}
+  - {x: 96, y: -89, z: 0}
+  - {x: 148, y: -89, z: 0}
+  - {x: 107, y: -88, z: 0}
+  - {x: 111, y: -88, z: 0}
+  - {x: 103, y: -87, z: 0}
+  - {x: 106, y: -87, z: 0}
+  - {x: 150, y: -87, z: 0}
+  - {x: 132, y: -86, z: 0}
+  - {x: 134, y: -86, z: 0}
+  - {x: 141, y: -86, z: 0}
+  - {x: 146, y: -86, z: 0}
+  - {x: 151, y: -86, z: 0}
+  - {x: 154, y: -86, z: 0}
+  - {x: 150, y: -85, z: 0}
+  - {x: 156, y: -85, z: 0}
+  - {x: 107, y: -84, z: 0}
+  - {x: 26, y: -82, z: 0}
+  - {x: 105, y: -82, z: 0}
+  - {x: 115, y: -82, z: 0}
+  - {x: 150, y: -82, z: 0}
+  - {x: 158, y: -82, z: 0}
+  - {x: 42, y: -81, z: 0}
+  - {x: 45, y: -81, z: 0}
+  - {x: 56, y: -81, z: 0}
+  - {x: 59, y: -81, z: 0}
+  - {x: 70, y: -81, z: 0}
+  - {x: 73, y: -81, z: 0}
+  - {x: 84, y: -81, z: 0}
+  - {x: 87, y: -81, z: 0}
+  - {x: 98, y: -81, z: 0}
+  - {x: 101, y: -81, z: 0}
+  - {x: 27, y: -80, z: 0}
+  - {x: 29, y: -80, z: 0}
+  - {x: 118, y: -79, z: 0}
+  - {x: 160, y: -79, z: 0}
+  - {x: 26, y: -78, z: 0}
+  - {x: 107, y: -78, z: 0}
+  - {x: 157, y: -77, z: 0}
+  - {x: 161, y: -77, z: 0}
+  - {x: 127, y: -76, z: 0}
+  - {x: 133, y: -76, z: 0}
+  - {x: 24, y: -75, z: 0}
+  - {x: 42, y: -75, z: 0}
+  - {x: 44, y: -75, z: 0}
+  - {x: 49, y: -75, z: 0}
+  - {x: 134, y: -75, z: 0}
+  - {x: 135, y: -75, z: 0}
+  - {x: 111, y: -74, z: 0}
+  - {x: 136, y: -74, z: 0}
+  - {x: 137, y: -74, z: 0}
+  - {x: 99, y: -73, z: 0}
+  - {x: 119, y: -73, z: 0}
+  - {x: 138, y: -73, z: 0}
+  - {x: 139, y: -73, z: 0}
+  - {x: 100, y: -72, z: 0}
+  - {x: 118, y: -72, z: 0}
+  - {x: 140, y: -72, z: 0}
+  - {x: 141, y: -72, z: 0}
+  - {x: 161, y: -72, z: 0}
+  - {x: 67, y: -71, z: 0}
+  - {x: 90, y: -71, z: 0}
+  - {x: 120, y: -71, z: 0}
+  - {x: 142, y: -71, z: 0}
+  - {x: 143, y: -71, z: 0}
+  - {x: 68, y: -70, z: 0}
+  - {x: 89, y: -70, z: 0}
+  - {x: 130, y: -70, z: 0}
+  - {x: 144, y: -70, z: 0}
+  - {x: 145, y: -70, z: 0}
+  - {x: 67, y: -69, z: 0}
+  - {x: 90, y: -69, z: 0}
+  - {x: 102, y: -69, z: 0}
+  - {x: 108, y: -69, z: 0}
+  - {x: 113, y: -69, z: 0}
+  - {x: 132, y: -69, z: 0}
+  - {x: 146, y: -69, z: 0}
+  - {x: 147, y: -69, z: 0}
+  - {x: 103, y: -68, z: 0}
+  - {x: 114, y: -68, z: 0}
+  - {x: 117, y: -68, z: 0}
+  - {x: 119, y: -68, z: 0}
+  - {x: 129, y: -68, z: 0}
+  - {x: 134, y: -68, z: 0}
+  - {x: 148, y: -68, z: 0}
+  - {x: 149, y: -68, z: 0}
+  - {x: 51, y: -67, z: 0}
+  - {x: 101, y: -67, z: 0}
+  - {x: 102, y: -67, z: 0}
+  - {x: 130, y: -67, z: 0}
+  - {x: 131, y: -67, z: 0}
+  - {x: 136, y: -67, z: 0}
+  - {x: 150, y: -67, z: 0}
+  - {x: 151, y: -67, z: 0}
+  - {x: 52, y: -66, z: 0}
+  - {x: 96, y: -66, z: 0}
+  - {x: 132, y: -66, z: 0}
+  - {x: 133, y: -66, z: 0}
+  - {x: 143, y: -66, z: 0}
+  - {x: 152, y: -66, z: 0}
+  - {x: 153, y: -66, z: 0}
+  - {x: 98, y: -65, z: 0}
+  - {x: 125, y: -65, z: 0}
+  - {x: 134, y: -65, z: 0}
+  - {x: 135, y: -65, z: 0}
+  - {x: 154, y: -65, z: 0}
+  - {x: 155, y: -65, z: 0}
+  - {x: 99, y: -64, z: 0}
+  - {x: 100, y: -64, z: 0}
+  - {x: 102, y: -64, z: 0}
+  - {x: 113, y: -64, z: 0}
+  - {x: 124, y: -64, z: 0}
+  - {x: 136, y: -64, z: 0}
+  - {x: 145, y: -64, z: 0}
+  - {x: 156, y: -64, z: 0}
+  - {x: 157, y: -64, z: 0}
+  - {x: 111, y: -63, z: 0}
+  - {x: 127, y: -63, z: 0}
+  - {x: 56, y: -62, z: 0}
+  - {x: 61, y: -62, z: 0}
+  - {x: 112, y: -62, z: 0}
+  - {x: 126, y: -62, z: 0}
+  - {x: 57, y: -61, z: 0}
+  - {x: 60, y: -61, z: 0}
+  - {x: 103, y: -61, z: 0}
+  - {x: 66, y: -58, z: 0}
+  - {x: 56, y: -56, z: 0}
+  - {x: 64, y: -56, z: 0}
+  - {x: 81, y: -56, z: 0}
+  - {x: 116, y: -55, z: 0}
+  - {x: 130, y: -55, z: 0}
+  - {x: 132, y: -55, z: 0}
+  - {x: 155, y: -55, z: 0}
+  - {x: 157, y: -55, z: 0}
+  - {x: 111, y: -54, z: 0}
+  - {x: 158, y: -54, z: 0}
+  - {x: 50, y: -53, z: 0}
+  - {x: 51, y: -53, z: 0}
+  - {x: 68, y: -53, z: 0}
+  - {x: 69, y: -52, z: 0}
+  - {x: 70, y: -52, z: 0}
+  - {x: 110, y: -52, z: 0}
+  - {x: 161, y: -52, z: 0}
+  - {x: 71, y: -51, z: 0}
+  - {x: 76, y: -51, z: 0}
+  - {x: 93, y: -49, z: 0}
+  - {x: 96, y: -49, z: 0}
+  - {x: 102, y: -49, z: 0}
+  - {x: 60, y: -48, z: 0}
+  - {x: 64, y: -48, z: 0}
+  - {x: 92, y: -43, z: 0}
+  - {x: 95, y: -43, z: 0}
+  - {x: 101, y: -42, z: 0}
+  - {x: 108, y: -42, z: 0}
+  - {x: 51, y: -40, z: 0}
+  - {x: 89, y: -40, z: 0}
+  - {x: 52, y: -39, z: 0}
+  - {x: 54, y: -39, z: 0}
+  - {x: 108, y: -39, z: 0}
+  - {x: 100, y: -38, z: 0}
+  - {x: 107, y: -38, z: 0}
+  - {x: 73, y: -36, z: 0}
+  - {x: 63, y: -35, z: 0}
+  - {x: 67, y: -35, z: 0}
+  - {x: 70, y: -35, z: 0}
+  - {x: 62, y: -34, z: 0}
+  - {x: 53, y: -32, z: 0}
+  - {x: 66, y: -32, z: 0}
+  - {x: 68, y: -32, z: 0}
+  - {x: 69, y: -32, z: 0}
+  - {x: 71, y: -32, z: 0}
+  - {x: 74, y: -32, z: 0}
+  - {x: 89, y: -32, z: 0}
+  - {x: 103, y: -32, z: 0}
+  - {x: 51, y: -31, z: 0}
+  - {x: 95, y: -30, z: 0}
+  - {x: 103, y: -30, z: 0}
+  - {x: 60, y: -29, z: 0}
+  - {x: 62, y: -29, z: 0}
+  - {x: 66, y: -29, z: 0}
+  - {x: 68, y: -29, z: 0}
+  - {x: 50, y: -28, z: 0}
+  - {x: 51, y: -27, z: 0}
+  - {x: 67, y: -27, z: 0}
+  - {x: 81, y: -27, z: 0}
+  - {x: 88, y: -27, z: 0}
+  - {x: 68, y: -26, z: 0}
+  - {x: 50, y: -25, z: 0}
+  - {x: 59, y: -25, z: 0}
+  - {x: 79, y: -25, z: 0}
+  - {x: 83, y: -25, z: 0}
+  - {x: 85, y: -25, z: 0}
+  - {x: 90, y: -25, z: 0}
+  - {x: 67, y: -24, z: 0}
+  - {x: 66, y: -23, z: 0}
+  - {x: 68, y: -21, z: 0}
+  - {x: 92, y: -21, z: 0}
+  - {x: 67, y: -20, z: 0}
+  - {x: 108, y: -20, z: 0}
+  - {x: 106, y: -19, z: 0}
+  - {x: 107, y: -19, z: 0}
+  - {x: 52, y: -18, z: 0}
+  - {x: 53, y: -17, z: 0}
+  - {x: 62, y: -17, z: 0}
+  - {x: 80, y: -17, z: 0}
+  - {x: 58, y: -15, z: 0}
+  - {x: 68, y: -15, z: 0}
+  - {x: 88, y: -14, z: 0}
+  - {x: 89, y: -13, z: 0}
+  - {x: 106, y: -13, z: 0}
+  - {x: 75, y: -12, z: 0}
+  - {x: 76, y: -12, z: 0}
+  - {x: 79, y: -12, z: 0}
+  - {x: 51, y: -11, z: 0}
+  - {x: 73, y: -11, z: 0}
+  - {x: 74, y: -11, z: 0}
+  - {x: 52, y: -10, z: 0}
+  - {x: 54, y: -10, z: 0}
+  - {x: 72, y: -10, z: 0}
+  - {x: 88, y: -9, z: 0}
+  - {x: 108, y: -9, z: 0}
+  - {x: 57, y: -7, z: 0}
+  - {x: 60, y: -7, z: 0}
+  - {x: 86, y: -5, z: 0}
+  - {x: 89, y: -5, z: 0}
+  - {x: 51, y: -2, z: 0}
+  - {x: 66, y: -2, z: 0}
+  - {x: 69, y: -2, z: 0}
+  - {x: 91, y: -2, z: 0}
+  - {x: 50, y: 0, z: 0}
+  - {x: 109, y: 0, z: 0}
+  - {x: 54, y: -53, z: 0}
+  - {x: 54, y: -66, z: 0}
+  - {x: 58, y: -48, z: 0}
+  - {x: 58, y: -53, z: 0}
+  - {x: 66, y: -48, z: 0}
+  - {x: 66, y: -53, z: 0}
+  - {x: 70, y: -66, z: 0}
+  - {x: 70, y: -70, z: 0}
+  - {x: 72, y: -64, z: 0}
+  - {x: 72, y: -70, z: 0}
+  - {x: 74, y: -51, z: 0}
+  - {x: 81, y: -21, z: 0}
+  - {x: 81, y: -25, z: 0}
+  - {x: 85, y: -40, z: 0}
+  - {x: 85, y: -49, z: 0}
+  - {x: 85, y: -56, z: 0}
+  - {x: 85, y: -64, z: 0}
+  - {x: 85, y: -70, z: 0}
+  - {x: 87, y: -66, z: 0}
+  - {x: 87, y: -70, z: 0}
+  - {x: 88, y: -21, z: 0}
+  - {x: 88, y: -25, z: 0}
+  - {x: 96, y: -56, z: 0}
+  - {x: 96, y: -65, z: 0}
+  - {x: 102, y: -21, z: 0}
+  - {x: 102, y: -30, z: 0}
+  - {x: 104, y: -87, z: 0}
+  - {x: 106, y: -61, z: 0}
+  - {x: 106, y: -68, z: 0}
+  - {x: 114, y: -59, z: 0}
+  - {x: 114, y: -62, z: 0}
+  - {x: 116, y: -100, z: 0}
+  - {x: 123, y: -59, z: 0}
+  - {x: 123, y: -62, z: 0}
+  - {x: 124, y: -79, z: 0}
+  NodeConnections:
+  - ConnectionIndices: 03000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 04000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 05000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 000000000400000006000000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 0300000001000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 0200000006000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 0500000003000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 0a000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 0f000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 080000000b000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 0a000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 0d000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 0c000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 0f00000022000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 0e0000001100000009000000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 0f000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 14000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 14000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 1300000012000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 1a000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 1b000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 37000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 68010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 1d00000068010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 150000001b000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 1a00000016000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 20000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 190000001e000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 1d00000021000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 2000000024000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 1f0000001c000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 1e00000022000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 210000000e000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 240000002f000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 230000001f000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 30000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 2700000032000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 2600000033000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 2900000034000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 2800000035000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 2b00000036000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 2a000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 2d000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 2c000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 2f00000038000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 2e00000023000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 25000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 32000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 3100000026000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 2700000034000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 3300000028000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 2900000036000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 350000002a000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 1700000038000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 370000002e000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 3f000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 3a00000040000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 3f000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 4f000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 44000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 43000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 58000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 4700000059000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 46000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 53000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 54000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 4b000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 4a000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 4d000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 4c000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 4f000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 4e0000005600000041000000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 53000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 520000005a00000048000000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 49000000550000005b000000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 54000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 4f00000057000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 560000005c000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 4500000059000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 5800000046000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 530000005b000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 5a00000054000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 570000005d000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 5c0000006c000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 5f000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 5e000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 61000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 60000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 63000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 62000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 68000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 63010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 6500000063010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 6e000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 6b000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 6a000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 5d0000006d000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 6c00000076000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 690000006f00000070000000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 6e000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 6e000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 75000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 7400000084000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 6d00000077000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 76000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 79000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 78000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 7b000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 7a000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 7d000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 7c000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 7f000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 7e000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 81000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 80000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 83000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 82000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 750000006b010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 89000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 88000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 8b000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 8a00000090000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 8d000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 8c000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 8f000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 8e000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 8b00000091000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 9000000093000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 9100000094000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 9300000097000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 99000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 9a000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 9400000098000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 970000009b000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 950000009a000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 9900000096000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 980000009c000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 9b000000a1000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: a3000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: a4000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 9c000000a2000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: a1000000a6000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 9e00000050010000a8000000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: a90000009f0000005c010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: a2000000a7000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: a6000000ae000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: a3000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: a4000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: b0000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: b1000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: a7000000af000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: ae000000b6000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: aa00000065010000ba000000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: ac000000b2000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: b1000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: b4000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: b3000000bb000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: af000000b7000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: b6000000be000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: c0000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: ba000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: b9000000b0000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: b4000000bc000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: bb000000c2000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: b7000000bf000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: be000000c5000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: b80000004a010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 600100005b010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: bc000000c3000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: c2000000c9000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: bf000000c6000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: c5000000cb000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: cd00000060010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: d1000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: c3000000ca000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: c9000000d2000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: c6000000cc000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: cb000000d4000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: c7000000ce000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: cd000000de000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: c80000006b010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: ca000000d3000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: d2000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: cc000000d5000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: d4000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: da000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: db000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: dc000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: dd000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: d600000067010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: d70000006a010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: d8000000dd000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: dc000000d9000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: ce00000064010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 58010000f2000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: e400000068010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: e3000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: e6000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: e5000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: e9000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: e7000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: eb000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: ea000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: ed0000004e010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: ec000000ee000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: ed000000f10000004f010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: f0000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: ef000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: ee00000053010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: e200000053010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 57010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: f50000005f010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: f400000062010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 4b010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 4d010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: f9000000fd000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: f800000001010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: fe000000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: f800000056010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: fc000000ff000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: fe00000049010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 02010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: f900000002010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 01010000000100002a010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 0501000007010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 04010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 04010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 09010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 080100004d010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 0b010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 0a010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 0d010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 0c01000053010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 0f010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 0e010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 6201000022010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 62010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 18010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 1701000019010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 180100001c010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 1b010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 1a010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 19010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 55010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 55010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 5e01000056010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 110100005e010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 24010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 23010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 27010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 61010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 25010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 2a010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 2a01000064010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 020100002901000028010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 2c010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 2b0100002d010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 2c010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 4b010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 320100005d010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 3101000033010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 32010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 3501000039010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 34010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 41010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 3a010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 390100003c010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 3801000034010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 37010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 3c010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 3b0100003801000051010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 40010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 3f010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 3601000042010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 41010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 
+    ConnecionWeight: []
+  - ConnectionIndices: 48010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 47010000
+    ConnecionWeight:
+    - 1
+  - ConnectionIndices: 4c010000ff0000004a010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: c00000004f01000049010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: f60000002f0100004c010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 490100004e0100004b010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: f7000000090100004e010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 4c010000ec0000004d010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 4a010000ee00000050010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: a3000000520100004f010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 590100003c01000052010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 500100005a01000051010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: f1000000f20000000d010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 5d01000055010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 1f0100002001000054010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: fd0000002101000057010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: f30000005601000058010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: e20000005f0100005701000059010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 51010000580100005a010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 520100005c01000059010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: c10000005c010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 5a010000a40000005b010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 54010000310100005e010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 21010000220100005d010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 58010000f400000060010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: c1000000c70000005f010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 2601000062010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: f5000000110100001201000061010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 6700000068000000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: de0000002901000065010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: b000000064010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 6901000067010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: da0000006a01000066010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 1800000019000000e3000000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 660100006a010000
+    ConnecionWeight:
+    - 1
+    - 1
+  - ConnectionIndices: 67010000db00000069010000
+    ConnecionWeight:
+    - 1
+    - 1
+    - 1
+  - ConnectionIndices: 84000000d1000000
+    ConnecionWeight:
+    - 1
+    - 1

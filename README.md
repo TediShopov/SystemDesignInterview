@@ -17,7 +17,10 @@ Use the Quick Navigation to jump between sections. Within each section, files ar
     - [Boid/Steering System](#boidsteering-system)
     - [Duplucation System](#duplication-system)
   - [Beat-Triggered Interactables](#beat-triggered-interactables)
-
+ - [RatKing](#ratking) 
+  - [Inventory System](#inventory-system)  
+  - [Throwing (Exit Point)](#throwing--projectile-simulation-system-exit-point-from-inventory)  
+  - [Collecting (Entry Point)](#collecting-entry-point-to-inventory)  
 
 # Toot The Lute
 
@@ -114,3 +117,24 @@ Related files can be found in the Assets/Scripts/Interactables directory.
 [InteractableObject.cs](TootTheLute/Assets/Scripts/Interactables/InteractableObject.cs) - Attackable node that emits a radial burst of homing projectiles.
 
 [InteractableMeleeObject.cs](TootTheLute/Assets/Scripts/Interactables/InterableMeleeObject.cs) - Interactable that spawns a short-lived strike oppossite of the player.
+
+# RatKing
+## Inventory System
+Related files can be found in the _Assets/Scripts/Inventory_ directory.
+
+[Inventory.cs](RatKing/Assets/Scripts/Inventory/Inventory.cs) - Core inventory data and rules. Manages items, placement validation, gold totals, and persistence events.
+
+[IPlayerInventory.cs](RatKing/Assets/Scripts/Inventory/Inventory.cs) - Interface for inventory access: grid size, item list, placement/selection API, and update events.
+
+[InventoryGridView.cs](RatKing/Assets/Scripts/Inventory/InventoryGridView.cs) - Grid UI/controller. Builds cells, previews placement under the cursor, handles pick/place input, and updates gold labels.
+
+[InventoryObject.cs](RatKing/Assets/Scripts/Inventory/InventoryObject.cs) - UI representation of a single item. Tracks occupied cells, centers/sizes the sprite on the grid, and bridges to physical collectibles.
+
+[InventoryCell.cs](RatKing/Assets/Scripts/Inventory/InventoryCell.cs) - Visual cell widget. Stores default colors and flips between default/valid/invalid states during placement.
+
+## Throwing & Projectile Simulation System (Exit Point from Inventory)
+[Thrower.cs](Assets/Scripts/Player/Thrower.cs) - Bridges inventory to the world: simulates & throws the selected item, predicts trajectory/sound, and raises an event on throw.
+
+## Collecting (Entry Point To Inventory)
+[Collectible.cs](Assets/Scripts/Items/Collectible.cs) - Physical item carrying inventory metadata; handles breakage threshold and emits impact sounds.
+
