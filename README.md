@@ -123,19 +123,19 @@ Related files can be found in the Assets/Scripts/Interactables directory.
 ## Inventory System
 Related files can be found in the _Assets/Scripts/Inventory_ directory.
 
-[Inventory.cs](RatKing/Assets/Scripts/Inventory/Inventory.cs) - Core inventory data and rules. Manages items, placement validation, gold totals, and persistence events.
+[Inventory.cs](Ratking/Assets/Scripts/Inventory/Inventory.cs) - Core inventory data and rules. Manages items, placement validation, gold totals, and persistence events.
 
-[IPlayerInventory.cs](RatKing/Assets/Scripts/Inventory/Inventory.cs) - Interface for inventory access: grid size, item list, placement/selection API, and update events.
+[IPlayerInventory.cs](Ratking/Assets/Scripts/Inventory/Inventory.cs) - Interface for inventory access: grid size, item list, placement/selection API, and update events.
 
-[InventoryGridView.cs](RatKing/Assets/Scripts/Inventory/InventoryGridView.cs) - Grid UI/controller. Builds cells, previews placement under the cursor, handles pick/place input, and updates gold labels.
+[InventoryGridView.cs](Ratking/Assets/Scripts/Inventory/InventoryGridView.cs) - Grid UI/controller. Builds cells, previews placement under the cursor, handles pick/place input, and updates gold labels.
 
-[InventoryObject.cs](RatKing/Assets/Scripts/Inventory/InventoryObject.cs) - UI representation of a single item. Tracks occupied cells, centers/sizes the sprite on the grid, and bridges to physical collectibles.
+[InventoryObject.cs](Ratking/Assets/Scripts/Inventory/InventoryObject.cs) - UI representation of a single item. Tracks occupied cells, centers/sizes the sprite on the grid, and bridges to physical collectibles.
 
-[InventoryCell.cs](RatKing/Assets/Scripts/Inventory/InventoryCell.cs) - Visual cell widget. Stores default colors and flips between default/valid/invalid states during placement.
+[InventoryCell.cs](Ratking/Assets/Scripts/Inventory/InventoryCell.cs) - Visual cell widget. Stores default colors and flips between default/valid/invalid states during placement.
 
 ## Throwing & Projectile Simulation System (Exit Point from Inventory)
-[Thrower.cs](Assets/Scripts/Player/Thrower.cs) - Bridges inventory to the world: simulates & throws the selected item, predicts trajectory/sound, and raises an event on throw.
+[Thrower.cs](Ratking/Assets/Scripts/Inventory/Thrower.cs) - Bridges inventory to the world: simulates & throws the selected item, predicts trajectory/sound, and raises an event on throw.
 
 ## Collecting (Entry Point To Inventory)
-[Collectible.cs](Assets/Scripts/Items/Collectible.cs) - Physical item carrying inventory metadata; handles breakage threshold and emits impact sounds.
+[Collectible.cs](Ratking/Assets/Scripts/Items/Collectible.cs) - Physical item carrying inventory metadata; handles breakage threshold and emits impact sounds.
 
