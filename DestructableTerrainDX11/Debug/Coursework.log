@@ -1,0 +1,9 @@
+﻿D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(76,29-56): warning X3206: implicit truncation of vector type
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(94,42-76): warning X3206: implicit truncation of vector type
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(95,26-60): warning X3206: implicit truncation of vector type
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(97,3-73): warning X3206: 'calculateDirecitonalLighting': implicit truncation of vector type
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(102,16-68): warning X3206: 'calcSpecularLight': implicit truncation of vector type
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(102,16-68): warning X3206: 'calcSpecularLight': implicit truncation of vector type
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(87,30-40): error X4502: invalid vs_2_0 output semantic 'SV_TARGET'
+  
+  compilation failed; no code produced

@@ -11,19 +11,28 @@ Use the Quick Navigation to jump between sections. Within each section, files ar
 
 - [Toot The Lute](#toot-the-lute)
   - [Beat/Rhythm System](#beatrhythm-system)
-    - [Legend](#legend)
-  - [Enemies](#enemies)
-    - [Attack System](#attack-system)
-    - [Boid/Steering System](#boidsteering-system)
-    - [Duplucation System](#duplication-system)
   - [Beat-Triggered Interactables](#beat-triggered-interactables)
 - [RatKing](#ratking) 
   - [Inventory System](#inventory-system)  
     - Main Logic
     - [Throwing (Exit Point)](#throwing--projectile-simulation-system-exit-point-from-inventory)  
     - [Collecting (Entry Point)](#collecting-entry-point-to-inventory)  
+- [Rollback System](#rollback-system) 
+- [Computer Graphcis Project](#destructible-terrain---dx11-computer-graphics-project)
+  - [Destructable Terrain](#destructible-terrain---dx11-computer-graphics-project) 
 
 # Toot The Lute
+
+### Legend
+**Crochet** - Seconds per beat: Crochet = 60 / BPM. Used to convert beat lengths into seconds.
+
+**Beat** - Data describing a musical event; includes a Length (in beats). Real-time length is Length * Crochet.
+
+**Reference Target** - The Transform at which the player is expected to hit the beat (the timing "hit line").
+
+**Input Offset** - Calibration shift applied to align player input with audio timing.
+
+**Visual Offset** - Calibration shift applied to align visuals with audio timing.
 
 ## Beat/Rhythm System
 Related files could be found in the _Assets/Scripts/BeatSystem_ directory.
@@ -51,63 +60,6 @@ Related files could be found in the _Assets/Scripts/BeatSystem_ directory.
 *   **InputCalibration** (audio/visual offsets).
 
 
-### Legend
-**Crochet** - Seconds per beat: Crochet = 60 / BPM. Used to convert beat lengths into seconds.
-
-**Beat** - Data describing a musical event; includes a Length (in beats). Real-time length is Length * Crochet.
-
-**Reference Target** - The Transform at which the player is expected to hit the beat (the timing "hit line").
-
-**Input Offset** - Calibration shift applied to align player input with audio timing.
-
-**Visual Offset** - Calibration shift applied to align visuals with audio timing.
-
-## Enemies 
-
-### Attack System
-
-Related files could be found in the _Assets/Scripts/Enemies_ directory.
-
-[Enemy.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/Enemy.cs) - Base Enemy controller. Knockback logic. Invulnerability windows.
-
-[Wendigo.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/Wendigo.cs) - Boss controller. Switch-case state machine
-
-[MeleeAttack.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/MeleeAttack.cs) - Scheduled on next beat. Utilized beat events.
-
-[RangedAttack.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/RangedAttack.cs) - Scheduled on the next beat. Utilizes beat events.
-
-
-### Boid/Steering System
-
-Related files could be found in the _Assets/Scripts/Enemies/SteeringMovement_ directory.
-BoidBase.cs
-
-[BoidBase.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/SteeringMovement/BoidBase.cs)
-*   Integrates behaviors: weighted sum → clamp → apply to Rigidbody2D.
-*   Exposes velocity, maxSpeed, maxForce, and draws behavior gizmos.
-
-[BoidBaseEditor.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/SteeringMovement/BoidBaseEditor.cs.cs) - One-click add buttons for common behaviors (Seek, Separation, Flee, ObstacleAvoidance).
-
-[SteeringBehaviour.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/SteeringMovement/SteeringBehavior.cs) - Base interface for steering modules. Includes a custom inspector drawer to label derived types inline.
-
-[ObstacleAvoidance.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/SteeringMovement/ObstacleAvoidance.cs) - Cone raycasts to detect obstacles and sum repel forces.
-
-[Separation.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/SteeringMovement/Separation.cs)
-
-[Seek.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/SteeringMovement/Seek.cs)
-
-[Pursue.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/SteeringMovement/Pursue.cs)
-
-
-### Duplication System
-
-Related files can be found in the Assets/Scripts/Enemies/Spawning and Assets/Scripts/Utils directories.
-
-[SlimeSpawner.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/Duplication%20&%20Spawning/SlimeSpawner.cs) - Spawns _SlimeDroplet_  along cone directions at a fixed radius. 
-
-[SpawnEnemiesOnDeath.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/Duplication%20&%20Spawning/SpawnEnemiesOnDeath.cs) - A component invoking slime spawner on enemy death.
-
-[SlimeDroplet.cs](TootTheLute/Assets/Scripts/Enemies%20&%20AI/Duplication%20&%20Spawning/SlimeDroplet.cs) - Timed droplet that scales/arches, then spawns an enemy at impact. 
 
 ##  Beat-Triggered Interactables
 
@@ -145,7 +97,7 @@ Related files can be found in the _Assets/Scripts/Inventory_ directory.
 ## Rollback System
 
 Here's how the buffers are arranged and used for the live fighters and their rollback shadows:
-* **Live fighter buffers:** Each fighter has a FighterBufferMono that creates and owns an InputBuffer in Awake(), copies its inspector settings (delay, pressed-keys history), and assigns it to FighterController.InputBuffer.
+* **Live fighter buffers:** Each fighter instance has a FighterBufferMono that creates and owns an InputBuffer in Awake(), copies its inspector settings (delay, pressed-keys history), and assigns it to FighterController.InputBuffer.
 
 The local fighter sets CollectInputFromKeyboard = true, so FighterBufferMono.FixedUpdate() captures the keyboard each fixed tick and enqueues a stamped InputFrame (now + DelayInput).
 
@@ -170,10 +122,7 @@ In short: the live buffer is the real-time input queue used to step gameplay eac
 * Lightweight lobbies and in-app chat.
 * Checksum-based desync detection.
 
-
-
-
-Related files live in the Assets/Scripts/Netcode and Assets/Scripts/Fighters directories.
+Related files live in the Assets/Scripts/... Core, InputBuffer & Core directories.
 
 [InputBuffer.cs](RollbackNetcode/Assets/Scripts/Gameplay/Input%20Buffers/InputBuffer.cs)
 * Defines InputFrame (byte-packed inputs, frame stamp, checksum, predicted flag).
@@ -190,3 +139,30 @@ Related files live in the Assets/Scripts/Netcode and Assets/Scripts/Fighters dir
 [FighterController.cs](RollbackNetcode/Assets/Scripts/Gameplay/Fighter/FighterController.cs)
 * Deterministic fighter logic (FixedMath.NET): movement, jump, facing, block/crouch.
 * Consumes stamped InputFrames (or predicted) and updates animator/render state.
+
+
+# Destructible Terrain - DX11 Computer Graphics Project 
+
+This system takes a heightfield terrain, raycasts to find an impact point, extracts a peak patch around that hit, cuts it against a plane to create a closed solid, 
+shatters the solid into chunks with multiple procedural plane cuts, and then spawns Bullet rigid bodies that blast outward. (Inside and outside mesh surfaces use different shaders).
+The rendering side uses a CPU-writable "destroyed mask" texture that's copied to an SRV; terrain generation samples this mask so subsequent rebuilds reflect the missing destroyed region.
+
+Terrain generation & extraction
+
+[Terrain.h](DestructableTerrainDX11/Terrain.h) [Terrain.cpp](DestructableTerrainDX11/Terrain.cpp) - fBM/extra noise terrain, destroyed-mask sampling, BFS peak extraction (extractPeakTerrainSubregion), mesh building.
+
+[ProceduralDestruction.h](DestructableTerrainDX11/ProceduralDestruction.h) [ProceduralDestruction.cpp](DestructableTerrainDX11/ProceduralDestruction.cpp) - cutMeshOpen/cutMeshClosed, triangle-fan caps, radialPlaneCutsRandom.
+
+[DestructableTerrainPeaks.h](DestructableTerrainDX11/DestructableTerrainPeaks.h) [DestructableTerrainPeaks.cpp](DestructableTerrainDX11/DestructableTerrainPeaks.cpp)- raycast -> extract -> cut/close -> shatter -> spawn Bullet bodies (fireProjectileAt).
+
+[TerrainTesselationShader.h](DestructableTerrainDX11/TerrainTesselationShader.h) [TerrainTesselationShader.cpp](DestructableTerrainDX11/TerrainTesselationShader.cpp)- shader bindings, CPU staging texture + SRV, markRegionDestructed.
+
+Utility/Helper classess: 
+[Transform.h](DestructableTerrainDX11/Transform.h) [Transform.cpp](DestructableTerrainDX11/Transform.cpp) - custom transform class
+[RenderItemCollection.h](DestructableTerrainDX11/RenderItem.h) [RenderItemCollection.cpp](DestructableTerrainDX11/RenderItem.cpp) - a generic collection of mesh instance each having a specific setup and 
+parameters for a shader 
+[ShaderParameter.h](DestructableTerrainDX11/ShaderParameter.h) [ShaderParameter.cpp](DestructableTerrainDX11/ShaderParameter.cpp) - utility for initializing shader parameters
+
+Other Notable Features: 
+Procedural Terrain (fBM),Procedural Destruction,Procedural Gerstner Waves,Compute Shader Buoyancy integrated with physics engine Bullet3D,Screen-Space Reflections + DDA,Parallel-Split Shadow Maps,
+

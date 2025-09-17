@@ -1,0 +1,1176 @@
+﻿  The vcpkg manifest was disabled, but we found a manifest file in D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  ActiveInstanceSelectorUI.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(26,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(27,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(38,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(39,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SerializableMesh.h(135,36): warning C4552: '!=': result of expression not used
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(109,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(110,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(211,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(239,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(247,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(51,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(52,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(53,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(28,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(53,107): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(55,103): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(49,18): warning C4101: 'pos': unreferenced local variable
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(77,107): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(79,103): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(65,18): warning C4101: 'pos': unreferenced local variable
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(38,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(39,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(28,40): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(44,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(45,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(47,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(48,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(48,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(49,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(52,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.h(15,28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'ActiveInstanceSelectorUI.cpp')
+  
+  BuoyancyComputeShader.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(26,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BuoyancyComputeShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(27,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BuoyancyComputeShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(38,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BuoyancyComputeShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(39,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BuoyancyComputeShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'BuoyancyComputeShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SerializableMesh.h(135,36): warning C4552: '!=': result of expression not used
+  (compiling source file 'BuoyancyComputeShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(109,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BuoyancyComputeShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(110,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BuoyancyComputeShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(211,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BuoyancyComputeShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BuoyancyComputeShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BuoyancyComputeShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(239,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BuoyancyComputeShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(247,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BuoyancyComputeShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\BuoyancyComputeShader.cpp(27,47): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\BuoyancyComputeShader.cpp(45,47): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\BuoyancyComputeShader.cpp(53,39): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\BuoyancyComputeShader.cpp(66,45): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\BuoyancyComputeShader.cpp(134,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\BuoyancyComputeShader.cpp(153,31): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\BuoyancyComputeShader.cpp(154,36): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\BuoyancyComputeShader.cpp(156,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\BuoyancyComputeShader.cpp(165,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\BuoyancyComputeShader.cpp(215,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  DestructableTerrainPeaks.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(109,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(110,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(211,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(239,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(247,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(26,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(27,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(38,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(39,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SerializableMesh.h(135,36): warning C4552: '!=': result of expression not used
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.h(15,28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(38,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(39,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'DestructableTerrainPeaks.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\DestructableTerrainPeaks.cpp(26,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\DestructableTerrainPeaks.cpp(26,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\DestructableTerrainPeaks.cpp(28,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\DestructableTerrainPeaks.cpp(28,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\DestructableTerrainPeaks.cpp(30,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\DestructableTerrainPeaks.cpp(30,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\DestructableTerrainPeaks.cpp(118,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\DestructableTerrainPeaks.cpp(119,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\DestructableTerrainPeaks.cpp(120,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\DestructableTerrainPeaks.cpp(178,53): warning C4244: 'argument': conversion from 'int' to 'const btScalar', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\DestructableTerrainPeaks.cpp(178,46): warning C4244: 'argument': conversion from 'int' to 'const btScalar', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\DestructableTerrainPeaks.cpp(178,39): warning C4244: 'argument': conversion from 'int' to 'const btScalar', possible loss of data
+  LimitedTimeRenderCollection.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(26,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'LimitedTimeRenderCollection.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(27,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'LimitedTimeRenderCollection.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(38,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'LimitedTimeRenderCollection.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(39,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'LimitedTimeRenderCollection.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'LimitedTimeRenderCollection.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SerializableMesh.h(135,36): warning C4552: '!=': result of expression not used
+  (compiling source file 'LimitedTimeRenderCollection.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(109,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'LimitedTimeRenderCollection.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(110,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'LimitedTimeRenderCollection.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(211,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'LimitedTimeRenderCollection.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'LimitedTimeRenderCollection.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'LimitedTimeRenderCollection.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(239,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'LimitedTimeRenderCollection.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(247,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'LimitedTimeRenderCollection.cpp')
+  
+  ProceduralDestruction.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(109,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(110,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(211,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(239,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(247,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(26,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(27,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(38,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(39,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SerializableMesh.h(135,36): warning C4552: '!=': result of expression not used
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.h(15,28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'ProceduralDestruction.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(25,15): warning C4101: 'v': unreferenced local variable
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(24,12): warning C4101: 'P': unreferenced local variable
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(25,9): warning C4101: 't': unreferenced local variable
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(25,12): warning C4101: 'u': unreferenced local variable
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(84,12): warning C4101: 'temp': unreferenced local variable
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(237,12): warning C4101: 'temp': unreferenced local variable
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(450,54): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(450,54): warning C4267:         with
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(450,54): warning C4267:         [
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(450,54): warning C4267:             _Ty=unsigned long
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(450,54): warning C4267:         ]
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(451,54): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(451,54): warning C4267:         with
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(451,54): warning C4267:         [
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(451,54): warning C4267:             _Ty=unsigned long
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(451,54): warning C4267:         ]
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(452,54): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(452,54): warning C4267:         with
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(452,54): warning C4267:         [
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(452,54): warning C4267:             _Ty=unsigned long
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(452,54): warning C4267:         ]
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(490,54): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(490,54): warning C4267:         with
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(490,54): warning C4267:         [
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(490,54): warning C4267:             _Ty=unsigned long
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(490,54): warning C4267:         ]
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(491,54): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(491,54): warning C4267:         with
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(491,54): warning C4267:         [
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(491,54): warning C4267:             _Ty=unsigned long
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(491,54): warning C4267:         ]
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(492,54): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(492,54): warning C4267:         with
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(492,54): warning C4267:         [
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(492,54): warning C4267:             _Ty=unsigned long
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(492,54): warning C4267:         ]
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(498,54): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(498,54): warning C4267:         with
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(498,54): warning C4267:         [
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(498,54): warning C4267:             _Ty=unsigned long
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(498,54): warning C4267:         ]
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(499,54): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(499,54): warning C4267:         with
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(499,54): warning C4267:         [
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(499,54): warning C4267:             _Ty=unsigned long
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(499,54): warning C4267:         ]
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(500,54): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(500,54): warning C4267:         with
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(500,54): warning C4267:         [
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(500,54): warning C4267:             _Ty=unsigned long
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(500,54): warning C4267:         ]
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(582,31): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(667,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(785,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(786,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(788,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(789,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(791,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(792,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.cpp(793,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RenderItem.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(26,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'RenderItem.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(27,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'RenderItem.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(38,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'RenderItem.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(39,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'RenderItem.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'RenderItem.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SerializableMesh.h(135,36): warning C4552: '!=': result of expression not used
+  (compiling source file 'RenderItem.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(109,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'RenderItem.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(110,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'RenderItem.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(211,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'RenderItem.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'RenderItem.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'RenderItem.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(239,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'RenderItem.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(247,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'RenderItem.cpp')
+  
+  Scene.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(109,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(110,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(211,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(239,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(247,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(26,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(27,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(38,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(39,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SerializableMesh.h(135,36): warning C4552: '!=': result of expression not used
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(51,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(52,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(53,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(28,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(53,107): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(55,103): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(49,18): warning C4101: 'pos': unreferenced local variable
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(77,107): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(79,103): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(65,18): warning C4101: 'pos': unreferenced local variable
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(38,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(39,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(28,40): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(44,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(45,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(47,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(48,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(48,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(49,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(52,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.h(15,28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Scene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\include\simpleson\json.h(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'Scene.cpp')
+  D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\include\simpleson\json.h(4,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SceneJsonSerializer.h(14,7): warning C4099: 'ID3D11Device': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Scene.cpp')
+  D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\include\imGUI\imgui_impl_dx11.h(11,8):
+  see declaration of 'ID3D11Device'
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SceneJsonSerializer.h(15,7): warning C4099: 'ID3D11ShaderResourceView': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Scene.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3721,5):
+  see declaration of 'ID3D11ShaderResourceView'
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(91,21): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(114,29): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(115,29): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(177,83): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(177,63): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(177,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(190,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(190,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(190,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(191,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(191,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(191,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(193,27): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(197,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(197,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(197,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(243,94): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(243,74): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(243,54): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(511,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(560,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(559,97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(559,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(559,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(593,37): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(613,39): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(624,29): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(625,29): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(627,30): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(628,30): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(639,25): warning C4244: '=': conversion from 'float' to 'INT', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(697,79): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(715,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(715,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(727,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(727,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(735,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(735,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(920,65): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(936,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(937,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1466,83): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1466,75): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1469,89): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1469,81): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1485,100): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1485,93): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1486,95): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1487,100): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1490,47): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1491,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1510,94): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1511,97): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1528,78): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1528,71): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1528,65): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1530,65): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1537,81): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1537,74): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1537,68): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1539,69): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1544,76): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1544,70): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1545,71): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1587,75): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1587,61): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1888,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1888,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1898,90): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1906,102): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1911,102): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1916,104): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1921,103): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1926,103): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1935,124): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1936,98): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1936,90): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1979,88): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1980,86): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Scene.cpp(1988,57): warning C4305: 'argument': truncation from 'double' to 'float'
+  Main.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(109,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(110,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(211,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(239,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(247,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(26,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(27,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(38,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(39,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SerializableMesh.h(135,36): warning C4552: '!=': result of expression not used
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(51,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(52,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(53,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(28,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(53,107): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(55,103): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(49,18): warning C4101: 'pos': unreferenced local variable
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(77,107): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(79,103): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(65,18): warning C4101: 'pos': unreferenced local variable
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(38,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(39,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(28,40): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(44,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(45,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(47,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(48,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(48,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(49,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(52,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.h(15,28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Main.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TestingScene.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+  MeshInstance.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(26,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MeshInstance.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(27,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MeshInstance.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(38,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MeshInstance.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(39,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MeshInstance.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'MeshInstance.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SerializableMesh.h(135,36): warning C4552: '!=': result of expression not used
+  (compiling source file 'MeshInstance.cpp')
+  
+  SceneJsonSerializer.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\include\simpleson\json.h(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'SceneJsonSerializer.cpp')
+  D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\include\simpleson\json.h(4,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(109,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(110,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(211,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(239,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(247,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(26,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(27,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(38,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(39,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SerializableMesh.h(135,36): warning C4552: '!=': result of expression not used
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(51,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(52,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(53,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(28,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(53,107): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(55,103): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(49,18): warning C4101: 'pos': unreferenced local variable
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(77,107): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(79,103): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightEditorUI.h(65,18): warning C4101: 'pos': unreferenced local variable
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(38,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(39,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(28,40): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(44,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(45,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(47,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(48,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(48,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(49,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\insideOutsideShader.h(52,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralDestruction.h(15,28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SceneJsonSerializer.h(14,7): warning C4099: 'ID3D11Device': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\include\imGUI\imgui_impl_dx11.h(11,8):
+  see declaration of 'ID3D11Device'
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SceneJsonSerializer.h(15,7): warning C4099: 'ID3D11ShaderResourceView': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'SceneJsonSerializer.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\d3d11.h(3721,5):
+  see declaration of 'ID3D11ShaderResourceView'
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SceneJsonSerializer.cpp(195,27): warning C4834: discarding return value of function with [[nodiscard]] attribute
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SceneJsonSerializer.cpp(204,28): warning C4834: discarding return value of function with [[nodiscard]] attribute
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SceneJsonSerializer.cpp(215,28): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  SerializableMesh.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(26,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SerializableMesh.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(27,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SerializableMesh.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(38,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SerializableMesh.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(39,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SerializableMesh.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'SerializableMesh.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SerializableMesh.h(135,36): warning C4552: '!=': result of expression not used
+  (compiling source file 'SerializableMesh.cpp')
+  
+  Terrain.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Terrain.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(34,21): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(38,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(39,13): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(326,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(327,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(329,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(385,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(445,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(445,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(465,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(465,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(549,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(549,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(558,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(559,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(560,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(560,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(680,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(681,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(682,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(875,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(886,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(887,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(916,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TerrainShader.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(109,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(110,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(211,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(239,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(247,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(38,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(39,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TerrainShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'TerrainShader.cpp')
+  
+  TerrainTesselationShader.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(109,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(110,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(211,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(239,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(247,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(38,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(39,33): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(42,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainShader.h(43,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TerrainTesselationShader.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainTesselationShader.cpp(18,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainTesselationShader.cpp(19,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainTesselationShader.cpp(34,32): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainTesselationShader.cpp(35,32): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainTesselationShader.cpp(38,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainTesselationShader.cpp(38,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainTesselationShader.cpp(38,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainTesselationShader.cpp(39,57): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainTesselationShader.cpp(39,52): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainTesselationShader.cpp(39,47): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainTesselationShader.cpp(141,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainTesselationShader.cpp(142,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TerrainTesselationShader.cpp(173,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  TestingScene.cpp
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(26,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(27,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(38,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\ProceduralMeshA.h(39,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.h(73,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\SerializableMesh.h(135,36): warning C4552: '!=': result of expression not used
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(109,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(110,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(211,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(221,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(239,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\CascadedShadowMaps.h(247,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TestingScene.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(51,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(52,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TransformEditorUI.h(53,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'TestingScene.cpp')
+  
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TestingScene.cpp(33,28): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TestingScene.cpp(39,28): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TestingScene.cpp(45,28): warning C4305: '=': truncation from 'double' to 'float'
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TestingScene.cpp(83,26): warning C4244: '=': conversion from 'float' to 'INT', possible loss of data
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\TestingScene.cpp(246,94): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(420): warning C4715: 'Terrain::generateHeightMapPerlin': not all control paths return a value
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(544): warning C4715: 'Terrain::findFirstPeakAbove': not all control paths return a value
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(905): warning C4715: 'Terrain::generateHeightMap': not all control paths return a value
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(963): warning C4715: 'Terrain::generateHeightMapfBM': not all control paths return a value
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\Terrain.cpp(1015): warning C4715: 'Terrain::smoothHeightMap': not all control paths return a value
+  LINK : 0 new modules and 15 (out of 198) modules have changed since prior linking
+  Searching libraries
+      Searching D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\lib\debug\LinearMath_Debug.lib:
+  Finished searching libraries
+  Starting pass 2
+       TestingScene.obj
+       TerrainTesselationShader.obj
+       TerrainShader.obj
+       Terrain.obj
+       SerializableMesh.obj
+       SceneJsonSerializer.obj
+       MeshInstance.obj
+       Main.obj
+       Scene.obj
+       RenderItem.obj
+       ProceduralDestruction.obj
+       LimitedTimeRenderCollection.obj
+       DestructableTerrainPeaks.obj
+       BuoyancyComputeShader.obj
+       ActiveInstanceSelectorUI.obj
+       MSVCRTD.lib(loadcfg.obj)
+  Finished pass 2
+  Coursework.vcxproj -> D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Debug\Coursework.exe

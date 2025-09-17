@@ -1,0 +1,21 @@
+﻿  compilation object save succeeded; see D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\x64\Release\BaseTexturePixelShader.cso
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\BuoyancyComputeShader.hlsl(202,35-97): warning X3206: 'ReverseMapGerstnerWaveWGradientDescent': implicit truncation of vector type
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\BuoyancyComputeShader.hlsl(207,20-50): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\x64\Release\BuoyancyComputeShader.cso
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\GerstenVertexShader.hlsl(88,9-27): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\x64\Release\GerstenVertexShader.cso
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\GerstnerWavesDomainShader.hlsl(302,5-44): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\x64\Release\GerstnerWavesDomainShader.cso
+  compilation object save succeeded; see D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\x64\Release\HorizontalBlurPixelShader.cso
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(76,29-56): warning X3206: implicit truncation of vector type
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(94,42-76): warning X3206: implicit truncation of vector type
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(95,26-60): warning X3206: implicit truncation of vector type
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(97,3-73): warning X3206: 'calculateDirecitonalLighting': implicit truncation of vector type
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(102,16-68): warning X3206: 'calcSpecularLight': implicit truncation of vector type
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(102,16-68): warning X3206: 'calcSpecularLight': implicit truncation of vector type
+D:\ProceduralMethods\cmp301_coursework-TediShopov\Coursework\Coursework\LightPixelShader.hlsl(87,30-40): error X4502: invalid vs_2_0 output semantic 'SV_TARGET'
+  
+  compilation failed; no code produced
