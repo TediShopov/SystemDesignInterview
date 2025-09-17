@@ -24,8 +24,8 @@ Brief glossaries and context notes clarify naming and intent.
 # Toot The Lute
 
 ### Legend
-- **Crochet** — Seconds per beat: `crochet = 60 / BPM`. Converts beat lengths to seconds.
-- **Beat** — Musical event with a `Length` (in beats); real-time length is `Length * crochet`.
+- **Crotchet** — Seconds per beat: `Crotchet = 60 / BPM`. Converts beat lengths to seconds.
+- **Beat** — Musical event with a `Length` (in beats); real-time length is `Length * Crotchet`.
 - **Reference Target** — Transform where the player should “hit” the beat (timing line).
 - **Input Offset** — Calibration to align input with audio timing.
 - **Visual Offset** — Calibration to align visuals with audio timing.
